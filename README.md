@@ -1,6 +1,6 @@
 # Challenge3_Python
 
-#PyBank script 
+# PyBank script 
 Collect the budget data from the csv file in the resource folder. 
 
 create the list and initialize variables
@@ -24,7 +24,7 @@ print the analysis
 
 Output the results to the text file in the analysis folder
 
-#PyPoll Script
+# PyPoll Script
 
 initialize variables and create a list for candidates
 
