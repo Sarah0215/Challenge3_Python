@@ -2,8 +2,8 @@
 
 #Collect the budget data from the csv file in the resource folder. 
 
-# create the list and initialize variables
-
+**# create the list and initialize variables
+**
 #create the following functions
 
 1) Define Function to count the data records
